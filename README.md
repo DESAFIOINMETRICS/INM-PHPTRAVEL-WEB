@@ -1,4 +1,7 @@
-# INM-PHPTRAVEL-WEB
+# INM-PHPTRAVEL-WEB  
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Alt Text](https://github.com/desafioinmetrics/inm-phptravel-web/raw/master/logo_inmetrics.png)
+
 
 ## Objetivo: 
 
