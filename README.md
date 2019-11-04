@@ -6,6 +6,9 @@
 
  &emsp;&emsp;&emsp;Automatizar a inclusão de um Guest Management no sistema PHP Travel.
  
+## Cenário a ser automatizado:
+
+ 
 ## Pré-Condições: 
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1. Utilize Java ou Ruby <br>
