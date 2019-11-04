@@ -8,7 +8,7 @@
  
 ## Cenário a ser automatizado:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Alt Text](https://github.com/desafioinmetrics/inm-phptravel-web/raw/master/CENARIO_DESAFIO.mp4)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Download do Video do Cenário](https://github.com/desafioinmetrics/inm-phptravel-web/raw/master/CENARIO_DESAFIO.mp4)
  
 ## Pré-Condições: 
 
