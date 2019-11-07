@@ -1,0 +1,23 @@
+Autor: Dayana Silva de Souza
+
+
+
+---------------|
+Ferramentas    |
+-----------------------------------------------------|
+-Foram utilizadas para construção desse projeto as 	 
+ferramentas Cucumber, Ruby,  
+Capybara e BDD.	 
+-----------------------------------------------------|
+
+
+---------------|
+Execução da feature    |
+-----------------------------------------------------|
+-Para execução da feature executar o comando 
+cucumber -t @cadastro_GuestManagement
+-----------------------------------------------------|
+
+
+
+
