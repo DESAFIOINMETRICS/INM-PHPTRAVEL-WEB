@@ -11,7 +11,12 @@ Capybara e BDD.
 -----------------------------------------------------|
 
 
-
+---------------|
+Execução da feature    |
+-----------------------------------------------------|
+-Para execução da feature executar o comando 
+cucumber -t @cadastro_GuestManagement
+-----------------------------------------------------|
 
 
 
